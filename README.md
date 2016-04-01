@@ -1,8 +1,8 @@
 # Learning AngularJS Template Store App
 
 This is learning project for AngularJS using the angular_starter.
-The purpose of this project is to get framilier with AgularJS routing 
-and HTTP GET requests, and click event handling.
+The purpose of this project is to get framilier with AgularJS routing, 
+HTTP GET requests, and click event handling.
 
 1. Create a responsive website to sell theme templates
 2. Retrieve template options from static JSON file using HTTP 
